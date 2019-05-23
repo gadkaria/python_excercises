@@ -1,4 +1,5 @@
+# should not upload new checkpoints or their notebooks 
+
 *.ipynb_checkpoints
 *.ipynb
 
-*.sftp
